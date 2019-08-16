@@ -2,6 +2,8 @@
 
 A slide-based presentation tool that is run as a bash executable.
 
+![presentation_bash screenshot](images/presentation_bash.PNG)
+
 I started this project for a presentation about safe and advanced bash scripting,
 but it turned into something more useful than I originally expected.
 
