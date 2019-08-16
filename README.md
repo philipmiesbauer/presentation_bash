@@ -129,3 +129,7 @@ script_slide "Title" "script_with_parameters.sh" "1st parameter" "2nd parameter"
 
 The script slide will first print the title and the cat command for the file, then print the contents of the scripts and
 the bash command to be executed and then the output of the executed script.
+
+##### Special Thanks
+
+Thanks to Chet Ramey <chet.ramey@case.edu>, for allowing me to use the Bash logo for this project.
